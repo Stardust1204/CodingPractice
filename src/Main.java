@@ -13,6 +13,7 @@ public class Main {
                 System.out.print(actualSum);
             }else
                 System.out.println("Number1 is " + number + "\n");
+
         }
 
 
